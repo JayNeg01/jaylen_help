@@ -1,0 +1,48 @@
+<!--- index.html --->
+
+<!DOCTYPE html>
+<html>
+
+    <head>
+	    <title>Who is the Goat?</title>
+		<meta name="viewport" content="width=device-width, intial-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		
+	</head>
+	
+	<body>
+	    <header>
+		
+		    <ul class="nav">
+		        <tr>
+		        <a href="index.html">Home</a>
+		        </tr>
+		
+		        <tr>
+		        <a href="about.html">About</a>
+		        </tr>
+		
+		        <tr>
+		        <a href="contact.html">Contact</a>
+				</tr>
+				
+			</ul>
+		
+		    <div class="container">
+		
+		    <a href="https://clutchpoints.com/nba-news-players-overwhelmingly-vote-michael-jordan-goat-over-lebron-james-kobe-bryant/">Goats
+		        <img src="images/goats.jpg" alt="The Goats">
+		    </a>
+		
+		    <!-- 
+			
+			<a href="https://clutchpoints.com/nba-news-players-overwhelmingly-vote-michael-jordan-goat-over-lebron-james-kobe-bryant/">Goats
+		    </a> 
+			
+			-->
+			
+		</div>
+
+    </body>
+
+</html>
