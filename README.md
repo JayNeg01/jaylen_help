@@ -9,5 +9,6 @@ Gotta have that index.html
   * every `src` must correspond to a path (relative to root)
 
 ## References
-  1. [w3schools][https://www.w3schools.com/]
+  1. [w3schools](https://www.w3schools.com/)
+  1. [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
 
